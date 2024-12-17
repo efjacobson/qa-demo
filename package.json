@@ -1,0 +1,15 @@
+{
+  "name": "qa-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec test.mjs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.0.1"
+  }
+}
