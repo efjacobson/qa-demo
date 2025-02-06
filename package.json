@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec test.mjs"
+    "test": "./test.mjs"
   },
   "author": "",
   "license": "MIT",
